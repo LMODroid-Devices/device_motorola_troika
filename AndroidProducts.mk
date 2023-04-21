@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_troika.mk
+    $(LOCAL_DIR)/lmodroid_troika.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_troika-user \
-    lineage_troika-userdebug \
-    lineage_troika-eng
+    lmodroid_troika-user \
+    lmodroid_troika-userdebug \
+    lmodroid_troika-eng
