@@ -15,8 +15,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_troika.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_troika-user \
-    lmodroid_troika-userdebug \
-    lmodroid_troika-eng
