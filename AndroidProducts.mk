@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_troika.mk
+    $(LOCAL_DIR)/lmodroid_troika.mk
